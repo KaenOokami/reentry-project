@@ -12,3 +12,8 @@
 - Created a basic Express server
 - Added health check endpoint
 - Ran server locally
+
+## Day 4
+- Created Postgres table and inserted daya
+- Connected Express server to Postgres
+- Added endpoint to fetch database records
