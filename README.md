@@ -17,3 +17,8 @@
 - Created Postgres table and inserted daya
 - Connected Express server to Postgres
 - Added endpoint to fetch database records
+
+## Day 5
+- Added POST endpoint to create checkins
+- Validated request body
+- Inserted data into Postgres via API
