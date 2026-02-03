@@ -33,3 +33,14 @@
 
 ## Day 7
 - Added .gitignore and removed enviroment secrets from version control
+- Deployed Express backend to Render
+- Provisioned managed Postgres database
+- Connected production DB via environment variables
+- Created checkins table with columns mood, note, created_at
+-Verified live API endpoints with POST/GET
+
+### Example POST request (Day 7)
+![POST /checkins](assets/day7_postman.png)
+
+### Example GET request (Day 7)
+![GET /checkins](assets/day7_getcheckins.png)
