@@ -40,7 +40,7 @@
 -Verified live API endpoints with POST/GET
 
 ### Example POST request (Day 7)
-![POST /checkins](assets/day7_postman.png)
+![POST /checkins](images/day7_postman.png)
 
 ### Example GET request (Day 7)
-![GET /checkins](assets/day7_getcheckins.png)
+![GET /checkins](images/day7_getcheckins.png)
