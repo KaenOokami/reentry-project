@@ -19,6 +19,11 @@ process.on("unhandledRejection", (err) => {
   console.error("Unhandled rejection:", err);
 });
 
+// Basic health check route
+app.get("/health", (req, res) => {
+  res.json({ status: "OK" });
+});
+
 // Routes
 // Test route
 app.get("/", (req, res) => {

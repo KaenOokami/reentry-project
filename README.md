@@ -30,3 +30,6 @@
 - Updated Postgres schema (added 'mood' column)
 - Tested GET & POST routed end-to-end
 - Fixed previous GitHub commits metadata
+
+## Day 7
+- Added .gitignore and removed enviroment secrets from version control
