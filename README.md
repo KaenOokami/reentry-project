@@ -22,3 +22,11 @@
 - Added POST endpoint to create checkins
 - Validated request body
 - Inserted data into Postgres via API
+
+## Day 6
+- Added validation for POST '/checkins' (required 'mood")
+- Implemented error handling for server & database
+- Configured '.env' for PORT & DATABASE_URL
+- Updated Postgres schema (added 'mood' column)
+- Tested GET & POST routed end-to-end
+- Fixed previous GitHub commits metadata
