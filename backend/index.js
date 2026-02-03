@@ -12,6 +12,7 @@ app.use(express.json());
 // Database connection setup
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
+  ssl: { rejectUnauthorized: false }, //For Render production environment
 });
 
 // Centralized error handling for unhandled promise rejections
