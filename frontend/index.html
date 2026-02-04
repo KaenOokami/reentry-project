@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Re-entry Check-in</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Re-entry Check-in</h1>
+
+    <form id="checkinForm">
+        <label for="mood">Mood:</label>
+        <input type="text" id="mood" name="mood" required>
+
+        <label for="note">Note (optional):</label>
+        <input type="text" id="note" name="note">
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <h2>Check-ins</h2>
+    <ul id="checkinsList"></ul>
+
+    <script src="app.js"></script>
+</body>
+</html>

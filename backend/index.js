@@ -5,8 +5,12 @@ require("dotenv").config(); // Load environment variables from .env file
 const express = require("express");
 const { Pool } = require("pg");
 
-// Get PORT from environment variables or default to 3000
+// Initialize Express app & Cors
 const app = express();
+const cors = require("cors");
+
+// Middleware
+app.use(cors()); 
 app.use(express.json());
 
 // Database connection setup
