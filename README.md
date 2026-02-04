@@ -53,3 +53,8 @@
 
 ### Example Form & List (Day 7 Part 2)
 ![Form /checkins](images/day7_frontendsubmitlist.png)
+
+## Day 8
+- Deployed frontend as statis sit on Netlify
+- Connected frontend to Render-hosted API
+- Verified full-stack app works via public URL
