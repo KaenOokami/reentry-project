@@ -58,3 +58,6 @@
 - Deployed frontend as statis sit on Netlify
 - Connected frontend to Render-hosted API
 - Verified full-stack app works via public URL
+
+### Live Demo
+https://reentry-project.netlify.app/
