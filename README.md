@@ -44,3 +44,12 @@
 
 ### Example GET request (Day 7)
 ![GET /checkins](images/day7_getcheckins.png)
+
+## Day 7 Part 2
+- Built simple frontend for check-ins
+- Connected frontend to live Render API
+- Implemented POST and GET from browser
+- Resolved CORS and DOM lifecycle issues
+
+### Example Form & List (Day 7 Part 2)
+![Form /checkins](images/day7_frontendsubmitlist.png)
