@@ -61,3 +61,7 @@
 
 ### Live Demo
 https://reentry-project.netlify.app/
+
+## Day 9
+- Took a day to read over my own code to confirm it is readable and understandable.
+- Wrote architecture text file to clairfy the different roles of the project.
