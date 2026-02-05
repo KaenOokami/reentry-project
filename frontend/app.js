@@ -1,3 +1,4 @@
+// Don't touch the DOM before it exists!
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("checkinForm");
   const checkinsList = document.getElementById("checkinsList");

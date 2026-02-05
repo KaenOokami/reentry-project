@@ -1,0 +1,3 @@
+Frontend: The frontend handles user interaction and presents data received from the backend.
+Backend: The primairy driver, the backend takes information sent to it from the front end, and updates the database with the information sent. The backend is also responsible for buisness logic and data validation.
+Database: Where information sent to the backend by the user is stored. The database holds all information submitted by the user, and is accessed by the backend to display this information on the front end.

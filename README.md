@@ -55,7 +55,7 @@
 ![Form /checkins](images/day7_frontendsubmitlist.png)
 
 ## Day 8
-- Deployed frontend as statis sit on Netlify
+- Deployed frontend as static site on Netlify
 - Connected frontend to Render-hosted API
 - Verified full-stack app works via public URL
 
